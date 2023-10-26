@@ -1,0 +1,19 @@
+header{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer{
+    border: 3px solid wheat;
+    background-color: lightgray;
+    text-align: center;
+    background-attachment:scroll;
+}
+
+.section{
+    background-color: antiquewhite;
+}
+
+.section1{
+    background-color: aquamarine;
+}
+
